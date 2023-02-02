@@ -58,7 +58,7 @@ My goal is to build higher complexity projects implementing different layout tec
 ## Author
 
 - Github - [samaelWebDev](https://github.com/samaelwebdev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/samaelwebdev)
+- Frontend Mentor - [samaelWebDev](https://www.frontendmentor.io/profile/samaelwebdev)
 
 
 
