@@ -52,9 +52,8 @@ My goal is to build higher complexity projects implementing different layout tec
 
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com/) - This site has helped me alot when it comes to understanding the fundamental of front end coding
+- [W3schools](https://www.w3schools.com/) - Valuable learning source.
 
-*
 
 ## Author
 
