@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/samaelwebdev/FrontEndMentor-product-preview-card-component)](https://github.com/samaelwebdev/FrontEndMentor-product-preview-card-component)
-- Live Site URL: [(https://your-live-site-url.com)](https://your-live-site-url.com)
+- Live Site URL: [https://samaelwebdev.github.io/FrontEndMentor-product-preview-card-component/)]https://samaelwebdev.github.io/FrontEndMentor-product-preview-card-component/
 
 
 ### Built with
